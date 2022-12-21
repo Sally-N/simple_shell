@@ -1,1 +1,1 @@
-alx simple_sheill group assignment
+alx simple shell group assignment
